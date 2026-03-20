@@ -1,10 +1,5 @@
+#!/usr/bin/python3
 def matrix_divided(matrix,div):
-
-#     matrix = [
-#     [1, 2, 3],
-#     [4, 5, 6]
-# ]
-
     if not isinstance(div, (int, float)):
         raise TypeError("div must be a number")
 
