@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""
+This module defines a function that divides all elements of a matrix.
+"""
+
 def matrix_divided(matrix,div):
     if not isinstance(div, (int, float)):
         raise TypeError("div must be a number")
