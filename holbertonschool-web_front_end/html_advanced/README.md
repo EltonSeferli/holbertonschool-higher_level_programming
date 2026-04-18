@@ -1,1 +1,2 @@
-Reaedme file
+Readme file
+
